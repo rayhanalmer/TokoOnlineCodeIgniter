@@ -1,5 +1,6 @@
 # MVC - Toko Online Code Igniter
 
-Abdullah Nasih Jasir
-PBKK A
-5025211111
+Nama: Rayhan Almer Kusumah
+NRP: 5025211115
+Kelas: Pemrograman Berbasis Kerangka Kerja A
+Tahun: 2023
